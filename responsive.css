@@ -16,7 +16,7 @@
       font-size: 32px;
     }
     header {
-      height: 15px;
+      height: 65px;
     }
 
     .header-bottom {
@@ -52,7 +52,7 @@
     
     /* Tambahkan CSS untuk header-right */
     header {
-      height: 15px;
+      height: 65px;
     }
 
     .header-right{
