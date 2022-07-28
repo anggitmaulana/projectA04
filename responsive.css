@@ -15,6 +15,13 @@
     .top-wrapper h1 {
       font-size: 32px;
     }
+    header {
+      height: 15px;
+    }
+
+    .header-bottom {
+      display: none;
+    }
     
     .heading h2 {
       font-size: 20px;
@@ -44,6 +51,10 @@
     }
     
     /* Tambahkan CSS untuk header-right */
+    header {
+      height: 15px;
+    }
+
     .header-right{
       display:none;
     }
