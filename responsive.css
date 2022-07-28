@@ -1,6 +1,6 @@
 /* Untuk PC*/
 @media all and (max-width: 2000px){
-  fa fa-bars menu-icon {
+  .menu-icon {
     display: none;
   }
 }
@@ -16,7 +16,7 @@
       font-size: 32px;
     }
     header {
-      height: 65px;
+      height: 100px;
     }
 
     .header-bottom {
@@ -52,7 +52,7 @@
     
     /* Tambahkan CSS untuk header-right */
     header {
-      height: 65px;
+      height: 100px;
     }
 
     .header-right{
