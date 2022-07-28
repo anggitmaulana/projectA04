@@ -7,6 +7,8 @@
     <link rel="stylesheet" href="stylesheet.css">
     <link rel="stylesheet" href="responsive.css">
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Condensed:200,300,700|Roboto:300,300i,400,400i,500,700,700i">
   </head>
   <body>
     <header>
@@ -16,11 +18,44 @@
         </div>
         <!-- Tambahkan ikon menu di sini -->
         <span class="fa fa-bars menu-icon"></span>
+
         <div class="header-right">
-          <a href="#">Pelajaran</a>
-          <a href="#">Daftar</a>
-          <a href="#" class="login">Log in</a>
+          <form class="search">
+            <input type="checkbox" id="toggleSearch" class="search__toggle" hidden />
+            <div class="search__field">
+              <label for="toggleSearch" class="search__label">
+                <span class="search__close"></span>
+              </label>
+              <input type="text" class="search__input" placeholder="What are you looking for?" />
+              <label for="toggleSearch" class="search__label">
+                <div class="search__button">
+                  <div class="search__icon search__button--toggle"></div>
+                </div>
+                <button class="search__button search__button--submit">
+                  <div class="search__icon"></div>
+                </button>
+              </label>
+            </div>
+          </form>
         </div>
+
+        <div class="header-bottom">
+          <a href="#">NEWS</a>
+          <a href="#">Tren</a>
+          <a href="#">Health</a>
+          <a href="#">Food</a>
+          <a href="#">Edukasi</a>
+          <a href="#">Money</a>
+          <a href="#">UMKM</a>
+          <a href="#">Tekno</a>
+          <a href="#">Lifestyle</a>
+          <a href="#">Properti</a>
+          <a href="#">Bola</a>
+          <a href="#">Travel</a>
+          <a href="#">Otomotif</a>
+          <a href="#">SAINS</a>
+        </div>
+
       </div>
     </header>
      <div class="top-wrapper">
