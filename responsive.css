@@ -6,7 +6,7 @@
 }
 
 /* Untuk Tablet */
-@media all and (max-width: 1000px) {
+@media all and (max-width: 1200px) {
     .lesson {
       width: 50%;
       margin-bottom: 50px;
@@ -22,7 +22,7 @@
     .header-bottom {
       display: none;
     }
-    
+
     .heading h2 {
       font-size: 20px;
     }
