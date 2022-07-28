@@ -82,8 +82,8 @@ a {
 }
 
 header {
-  height: 0%;
-  width: 75%;
+  height: 15%;
+  width: 100%;
   background-color: rgba(34, 49, 52, 0.9);
   position :fixed;
   top: 0;
