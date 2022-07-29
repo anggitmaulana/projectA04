@@ -78,15 +78,4 @@
       line-height: 20px;
     }
 
-    .main#main-three-columns .sidebar {width: 100%;}
-    .main#main-three-columns #main-left {width: 100%;}
-   
-    #sidebar-1 {
-      display: none;
-    }
-    
-    #sidebar-2 {
-      display: none;
-    }
-
   }
