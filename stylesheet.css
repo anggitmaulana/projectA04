@@ -361,3 +361,43 @@ footer {
   transform: rotate(45deg);
   transform-origin: right;
 }
+
+.main {margin-bottom: 18px;}
+.main#main-three-columns {background: url('img/main-three-columns.gif') repeat-y right top;}
+.main#main-three-columns .sidebar {width: 193px;}
+.main#main-three-columns #main-left {width: 520px;}
+
+.main#main-two-columns {background: url('img/main-two-columns.gif') repeat-y right top;}
+.main#main-two-columns .sidebar {width: 260px;}
+.main#main-two-columns #main-left {width: 671px;}
+
+.sidebar a {text-decoration: none;}
+.sidebar a:hover {text-decoration: underline;}
+
+#sidebar-1 {margin-left: 37px;}
+
+/* Columns */
+.col3 {width: 32%;}
+.col3-mid {margin-left: 2%;}
+
+/* Sidebar */
+
+#sidebar-wrapper {}
+#sidebar {}
+
+
+/* Sidebar sections */
+.section {margin-bottom: 16px;}
+.section-title {
+	background-color: #F2F6FA;
+	border-top: 2px solid #ABC;
+	font: bold 1.1em sans-serif;
+	margin-bottom: 5px;
+	min-height: 0;
+	padding: 5px 8px 6px;
+}
+
+.network-section .section-title {
+	background-color: #F6F6F6;
+	border-color: #D6D6D6;
+}
