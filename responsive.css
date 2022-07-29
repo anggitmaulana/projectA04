@@ -77,18 +77,13 @@
       font-size: 14px;
       line-height: 20px;
     }
-    #sidebar-1{
-      display: none;
-    }
-    #sidebar-2{
-      display: none;
-    }
 
+    .sidebar{display: none;}
+    
     .archive {display: none;}
 
-    .post {
-      width: 50%;
-    }
+    .post {width: 30%;}
+    
     .column-content{display: none;}
 
   }
