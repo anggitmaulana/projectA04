@@ -82,7 +82,7 @@
     
     .archive {display: none;}
 
-    .post-body, p {width: 100%}
+    .post-body {width: 100%}
 
     .column-content{display: none;}
 
