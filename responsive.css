@@ -86,4 +86,8 @@
 
     .center-wrapper#network {display: none;}
     .archive {display: none;}
+
+    .post-body {
+      width: 100%;
+    }
   }
