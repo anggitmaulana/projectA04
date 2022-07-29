@@ -77,12 +77,13 @@
       font-size: 14px;
       line-height: 20px;
     }
-    .main     {width: 75%;}
+    .main#main-left {width: 75%;}
     .sidebar  {display: none;}
     
     .archive  {display: none;}
 
     .post-body  {width: 75%}
+    .post-title {width: 75%}
 
     .column-content{display: none;}
 
