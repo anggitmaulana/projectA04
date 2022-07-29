@@ -77,5 +77,6 @@
       font-size: 14px;
       line-height: 20px;
     }
-
+    #network {display: none;}
+    .archive {display: none;}
   }
