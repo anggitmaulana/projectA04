@@ -77,17 +77,18 @@
       font-size: 14px;
       line-height: 20px;
     }
-    .main#sidebar-1{
+    #sidebar-1{
       display: none;
     }
-    .main#sidebar-2{
+    #sidebar-2{
       display: none;
     }
 
-    .center-wrapper#network {display: none;}
     .archive {display: none;}
 
-    .post-body {
-      width: 100%;
+    .post {
+      width: 50%;
     }
+    .column-content{display: none;}
+
   }
