@@ -77,6 +77,13 @@
       font-size: 14px;
       line-height: 20px;
     }
-    #network {display: none;}
+    .main#sidebar-1{
+      display: none;
+    }
+    .main#sidebar-2{
+      display: none;
+    }
+
+    .center-wrapper#network {display: none;}
     .archive {display: none;}
   }
