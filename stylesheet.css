@@ -819,8 +819,8 @@ img.right {
 
 .visual-interaktif .visual-2 {
   display: flex;
-  justify-content: center;
-  /*width: 400px;*/
+  justify-content: space-between;
+  width: 100%;
   /* border: solid 2px; */
 }
 
