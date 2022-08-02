@@ -807,6 +807,7 @@ img.right {
 
 .visual-interaktif .visual-1 img {
   width: 400px;
+  margin-top: 50px;
   margin: 20px;
   cursor: pointer;
   border-radius: 10px;
@@ -819,7 +820,7 @@ img.right {
 }
 
 .visual-interaktif .visual-2 .deskripsi {
-  margin: 30px;
+  margin: 10px;
   padding: 20px;
   background-color: #fff;
   margin-top: -50px;
@@ -829,6 +830,11 @@ img.right {
 
 .visual-interaktif .visual-2 .deskripsi h3 {
   margin-top: -5px;
+}
+
+.visual-interaktif .visual-2 .deskripsi h3 {
+  color: rgb(192, 156, 156);
+  text-decoration: none;
 }
 
 /* END */
