@@ -820,7 +820,7 @@ img.right {
 .visual-interaktif .visual-2 {
   display: flex;
   justify-content: center;
-  width: 400px;
+  /*width: 400px;*/
   /* border: solid 2px; */
 }
 
